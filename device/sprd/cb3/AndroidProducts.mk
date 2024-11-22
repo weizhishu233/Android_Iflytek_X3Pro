@@ -9,4 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_cb3.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_cb3-user
+    omni_cb3-user \
+    omni_cb3-userdebug \
+    omni_cb3-eng
