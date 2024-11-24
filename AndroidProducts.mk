@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_cb3.mk
+    $(LOCAL_DIR)/cb3.mk
 
 COMMON_LUNCH_CHOICES := \
     cb3-user \
